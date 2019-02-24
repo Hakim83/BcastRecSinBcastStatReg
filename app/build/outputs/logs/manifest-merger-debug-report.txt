@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:3:5-82
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:5:5-82
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:5:22-63
+application
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:7:5-32:19
+	android:label
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:8:9-36
+activity#course.examples.broadcastreceiver.singlebroadcaststaticregistration.SimpleBroadcast
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:12:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:17:27-74
+receiver#course.examples.broadcastreceiver.singlebroadcaststaticregistration.Receiver
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:exported
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:22:13-37
+intent-filter#action:name:course.examples.BroadcastReceiver.show_toast
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:24:13-26:29
+action#course.examples.BroadcastReceiver.show_toast
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:25:17-94
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:25:25-84
+receiver#course.examples.broadcastreceiver.singlebroadcaststaticregistration.MyReceiver
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:28:9-31:48
+	android:enabled
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:29:13-39
+uses-sdk
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml

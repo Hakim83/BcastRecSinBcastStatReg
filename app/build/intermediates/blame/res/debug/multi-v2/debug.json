@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mohammed\\AndroidStudioProjects\\BcastRecSinBcastStatReg\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mohammed\\AndroidStudioProjects\\BcastRecSinBcastStatReg\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,126",
+                        "endColumns": "70,68",
+                        "endOffsets": "121,190"
+                    }
+                }
+            ]
+        }
+    ]
+}
